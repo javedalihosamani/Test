@@ -1,2 +1,1 @@
-hello Reactjs
-how are you
+hello Reactjs 
