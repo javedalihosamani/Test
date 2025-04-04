@@ -1,1 +1,1 @@
-hello ReactJS
+hello React
