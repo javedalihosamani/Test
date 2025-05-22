@@ -1,1 +1,1 @@
-WRUhello React
+WRUhello ReactJS
